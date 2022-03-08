@@ -1,0 +1,12 @@
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Domain\bin\Debug\Blinkay.Domains.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Domain\bin\Debug\Blinkay.Domains.pdb
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Domain\obj\Debug\Blinkay.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Domain\obj\Debug\Blinkay.Domains.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Domain\obj\Debug\Blinkay.Domains.pdb
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Domain\obj\Debug\Blinkay.Domain.csprojAssemblyReference.cache
+C:\Users\Oriol\Desktop\BlinkayTest\Blinkay.Domain\bin\Debug\Blinkay.Domains.dll
+C:\Users\Oriol\Desktop\BlinkayTest\Blinkay.Domain\bin\Debug\Blinkay.Domains.pdb
+C:\Users\Oriol\Desktop\BlinkayTest\Blinkay.Domain\obj\Debug\Blinkay.Domain.csprojAssemblyReference.cache
+C:\Users\Oriol\Desktop\BlinkayTest\Blinkay.Domain\obj\Debug\Blinkay.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Oriol\Desktop\BlinkayTest\Blinkay.Domain\obj\Debug\Blinkay.Domains.dll
+C:\Users\Oriol\Desktop\BlinkayTest\Blinkay.Domain\obj\Debug\Blinkay.Domains.pdb

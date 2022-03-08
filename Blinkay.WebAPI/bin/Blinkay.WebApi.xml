@@ -1,0 +1,118 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Blinkay.WebApi</name>
+    </assembly>
+    <members>
+        <member name="T:Blinkay.WebApi.AutofacConfig">
+            <summary>
+            Represent Autofac configuration.
+            </summary>
+        </member>
+        <member name="F:Blinkay.WebApi.AutofacConfig.Container">
+            <summary>
+            Configured instance of <see cref="T:Autofac.IContainer"/>
+            <remarks><see cref="M:Blinkay.WebApi.AutofacConfig.Configure(System.Web.Http.HttpConfiguration)"/> must be called before trying to get Container instance.</remarks>
+            </summary>
+        </member>
+        <member name="M:Blinkay.WebApi.AutofacConfig.Configure(System.Web.Http.HttpConfiguration)">
+            <summary>
+            Initializes and configures instance of <see cref="T:Autofac.IContainer"/>.
+            </summary>
+            <param name="config"></param>
+        </member>
+        <member name="T:Blinkay.WebApi.CorsConfig">
+            <summary>
+            Represents CORS configuration.
+            </summary>
+            <remarks>For more information see https://github.com/drwatson1/AspNet-WebApi/wiki#cross-origin-resource-sharing-cors</remarks>
+        </member>
+        <member name="M:Blinkay.WebApi.CorsConfig.ConfigureCors(System.String)">
+            <summary>
+            Initializes and configures <see cref="T:Microsoft.Owin.Cors.CorsOptions"/> instance.
+            </summary>
+            <param name="origins">String of allowed origins delimited by: ';'</param>
+        </member>
+        <member name="T:Blinkay.WebApi.FormatterConfig">
+            <summary>
+            Represents formatter configuration.
+            </summary>
+        </member>
+        <member name="M:Blinkay.WebApi.FormatterConfig.Configure(System.Web.Http.HttpConfiguration)">
+            <summary>
+            Configures formatter to use JSON and removes XML formatter.
+            </summary>
+            <param name="config"></param>
+        </member>
+        <member name="T:Blinkay.WebApi.BenchmarkController">
+            <summary>
+            Benchmark controller
+            </summary>
+        </member>
+        <member name="M:Blinkay.WebApi.BenchmarkController.MySQLInsertion(System.Int32,System.Int32)">
+            <summary>
+            Insert new registries into Mysql
+            </summary>
+            <param name="iNumRegistries">The number of insertions per thread</param>
+            <param name="iNumThreads">The number of threads created</param>
+            <returns>Time of execution in ms</returns>
+        </member>
+        <member name="M:Blinkay.WebApi.BenchmarkController.MySQLSelectPlusUpdate(System.Int32,System.Int32)">
+            <summary>
+            Update registies into Mysql
+            </summary>
+            <param name="iNumRegistries">The number of updates per thread</param>
+            <param name="iNumThreads">The number of threads created</param>
+            <returns>Time of execution in ms</returns>
+        </member>
+        <member name="M:Blinkay.WebApi.BenchmarkController.MySQLSelectPlusUpdatePlusInsertion(System.Int32,System.Int32)">
+            <summary>
+            Insert and Update registies into Mysql
+            </summary>
+            <param name="iNumRegistries">The number of inserts and updates per thread</param>
+            <param name="iNumThreads">The number of threads created</param>
+            <returns>Time of execution in ms</returns>
+        </member>
+        <member name="M:Blinkay.WebApi.BenchmarkController.PGInsertion(System.Int32,System.Int32)">
+            <summary>
+            Insert new registries into Postgress
+            </summary>
+            <param name="iNumRegistries">The number of insertions and updates per thread</param>
+            <param name="iNumThreads">The number of threads created</param>
+            <returns>Time of execution in ms</returns>
+        </member>
+        <member name="M:Blinkay.WebApi.BenchmarkController.PGSelectPlusUpdate(System.Int32,System.Int32)">
+            <summary>
+            Update registies into Postgress
+            </summary>
+            <param name="iNumRegistries">The number of updates per thread</param>
+            <param name="iNumThreads">The number of threads created</param>
+            <returns>Time of execution in ms</returns>
+        </member>
+        <member name="M:Blinkay.WebApi.BenchmarkController.PGSelectPlusUpdatePlusInsertion(System.Int32,System.Int32)">
+            <summary>
+            Insert and Update registies into Postgress
+            </summary>
+            <param name="iNumRegistries">The number of insertions and updates per thread</param>
+            <param name="iNumThreads">The number of threads created</param>
+            <returns>Time of execution in ms</returns>
+        </member>
+        <member name="T:Blinkay.WebApi.OptionsHttpMessageHandler">
+            <summary>
+            OPTIONS HTTP query handler
+            </summary>
+        </member>
+        <member name="T:Blinkay.WebApi.Settings">
+            <summary>
+            Represents all application settings
+            </summary>
+        </member>
+        <member name="M:Blinkay.WebApi.Settings.Get(System.String)">
+            <summary>
+            Get value from appSettings section of web.config and expand environmemt variables
+            </summary>
+            <param name="name">Key name</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

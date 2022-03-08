@@ -1,0 +1,243 @@
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\NhibernateDemo\obj\Debug\Blinkay.Persistance.csprojAssemblyReference.cache
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\NhibernateDemo\obj\Debug\Blinkay.Persistance.exe.config
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\NhibernateDemo\obj\Debug\Blinkay.Persistance.csproj.CoreCompileInputs.cache
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\NhibernateDemo\bin\Debug\Blinkay.Persistance.exe.config
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\NhibernateDemo\bin\Debug\Blinkay.Persistance.exe
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\NhibernateDemo\bin\Debug\Blinkay.Persistance.pdb
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\NhibernateDemo\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\NhibernateDemo\bin\Debug\FluentNHibernate.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\NhibernateDemo\bin\Debug\FluentNHibernate.pdb
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\NhibernateDemo\bin\Debug\Iesi.Collections.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\NhibernateDemo\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\NhibernateDemo\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\NhibernateDemo\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\NhibernateDemo\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\NhibernateDemo\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\NhibernateDemo\bin\Debug\NHibernate.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\NhibernateDemo\bin\Debug\Npgsql.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\NhibernateDemo\bin\Debug\Remotion.Linq.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\NhibernateDemo\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\NhibernateDemo\bin\Debug\System.Buffers.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\NhibernateDemo\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\NhibernateDemo\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\NhibernateDemo\bin\Debug\System.Memory.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\NhibernateDemo\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\NhibernateDemo\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\NhibernateDemo\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\NhibernateDemo\bin\Debug\System.Text.Json.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\NhibernateDemo\bin\Debug\System.Threading.Channels.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\NhibernateDemo\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\NhibernateDemo\bin\Debug\System.ValueTuple.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\NhibernateDemo\bin\Debug\Blinkay.Domain.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\NhibernateDemo\bin\Debug\Blinkay.Domain.pdb
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\NhibernateDemo\obj\Debug\Blinkay.Persistance.csproj.CopyComplete
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\NhibernateDemo\obj\Debug\Blinkay.Persistance.exe
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\NhibernateDemo\obj\Debug\Blinkay.Persistance.pdb
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\Blinkay.Persistance.pdb
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\roslyn\csc.exe
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\roslyn\csc.exe.config
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\roslyn\csc.rsp
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\roslyn\csi.exe
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\roslyn\csi.exe.config
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\roslyn\csi.rsp
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\roslyn\System.Buffers.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\roslyn\System.Memory.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\roslyn\System.Numerics.Vectors.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\roslyn\vbc.exe
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\roslyn\vbc.exe.config
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\roslyn\vbc.rsp
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\FluentNHibernate.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\FluentNHibernate.pdb
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\Humanizer.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\Iesi.Collections.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\Microsoft.CodeAnalysis.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\Microsoft.CodeAnalysis.pdb
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\Microsoft.CodeAnalysis.CSharp.pdb
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\Microsoft.CodeAnalysis.CSharp.Workspaces.pdb
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\Microsoft.CodeAnalysis.VisualBasic.pdb
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\Microsoft.CodeAnalysis.VisualBasic.Workspaces.pdb
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\Microsoft.CodeAnalysis.Workspaces.pdb
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\NHibernate.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\Npgsql.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\Remotion.Linq.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\System.Buffers.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\System.CodeDom.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\System.Composition.AttributedModel.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\System.Composition.Convention.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\System.Composition.Hosting.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\System.Composition.Runtime.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\System.Composition.TypedParts.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\System.Memory.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\System.Text.Json.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\System.Threading.Channels.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\System.ValueTuple.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\Blinkay.Domains.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\Blinkay.Domains.pdb
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\obj\Debug\Blinkay.Persistance.csprojAssemblyReference.cache
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\obj\Debug\Blinkay.Persistance.csproj.CoreCompileInputs.cache
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\obj\Debug\Blinkay.Persistance.csproj.CopyComplete
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\obj\Debug\Blinkay.Persistance.pdb
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\Blinkay.Persistance.exe.config
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\bin\Debug\Blinkay.Persistance.exe
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\obj\Debug\Blinkay.Persistance.exe.config
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.Persistance\obj\Debug\Blinkay.Persistance.exe
+C:\Users\Oriol\Desktop\BlinkayTest\Blinkay.Persistance\bin\Debug\Blinkay.Persistance.dll
+C:\Users\Oriol\Desktop\BlinkayTest\Blinkay.Persistance\bin\Debug\Blinkay.Persistance.pdb
+C:\Users\Oriol\Desktop\BlinkayTest\Blinkay.Persistance\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Oriol\Desktop\BlinkayTest\Blinkay.Persistance\bin\Debug\FluentNHibernate.dll
+C:\Users\Oriol\Desktop\BlinkayTest\Blinkay.Persistance\bin\Debug\FluentNHibernate.pdb
+C:\Users\Oriol\Desktop\BlinkayTest\Blinkay.Persistance\bin\Debug\Iesi.Collections.dll
+C:\Users\Oriol\Desktop\BlinkayTest\Blinkay.Persistance\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Oriol\Desktop\BlinkayTest\Blinkay.Persistance\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Oriol\Desktop\BlinkayTest\Blinkay.Persistance\bin\Debug\NHibernate.dll
+C:\Users\Oriol\Desktop\BlinkayTest\Blinkay.Persistance\bin\Debug\Npgsql.dll
+C:\Users\Oriol\Desktop\BlinkayTest\Blinkay.Persistance\bin\Debug\Remotion.Linq.dll
+C:\Users\Oriol\Desktop\BlinkayTest\Blinkay.Persistance\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\Oriol\Desktop\BlinkayTest\Blinkay.Persistance\bin\Debug\System.Buffers.dll
+C:\Users\Oriol\Desktop\BlinkayTest\Blinkay.Persistance\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Oriol\Desktop\BlinkayTest\Blinkay.Persistance\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Oriol\Desktop\BlinkayTest\Blinkay.Persistance\bin\Debug\System.Memory.dll
+C:\Users\Oriol\Desktop\BlinkayTest\Blinkay.Persistance\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Oriol\Desktop\BlinkayTest\Blinkay.Persistance\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Oriol\Desktop\BlinkayTest\Blinkay.Persistance\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Oriol\Desktop\BlinkayTest\Blinkay.Persistance\bin\Debug\System.Text.Json.dll
+C:\Users\Oriol\Desktop\BlinkayTest\Blinkay.Persistance\bin\Debug\System.Threading.Channels.dll
+C:\Users\Oriol\Desktop\BlinkayTest\Blinkay.Persistance\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Oriol\Desktop\BlinkayTest\Blinkay.Persistance\bin\Debug\System.ValueTuple.dll
+C:\Users\Oriol\Desktop\BlinkayTest\Blinkay.Persistance\bin\Debug\Blinkay.Domains.dll
+C:\Users\Oriol\Desktop\BlinkayTest\Blinkay.Persistance\bin\Debug\Blinkay.Domains.pdb
+C:\Users\Oriol\Desktop\BlinkayTest\Blinkay.Persistance\obj\Debug\Blinkay.Persistance.csprojAssemblyReference.cache
+C:\Users\Oriol\Desktop\BlinkayTest\Blinkay.Persistance\obj\Debug\Blinkay.Persistance.csproj.CoreCompileInputs.cache
+C:\Users\Oriol\Desktop\BlinkayTest\Blinkay.Persistance\obj\Debug\Blinkay.Persistance.csproj.CopyComplete
+C:\Users\Oriol\Desktop\BlinkayTest\Blinkay.Persistance\obj\Debug\Blinkay.Persistance.dll
+C:\Users\Oriol\Desktop\BlinkayTest\Blinkay.Persistance\obj\Debug\Blinkay.Persistance.pdb
+C:\Users\Oriol\Desktop\BlinkayTest\Blinkay.Persistance\bin\Debug\System.Data.Common.dll
+C:\Users\Oriol\Desktop\BlinkayTest\Blinkay.Persistance\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Oriol\Desktop\BlinkayTest\Blinkay.Persistance\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Oriol\Desktop\BlinkayTest\Blinkay.Persistance\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Oriol\Desktop\BlinkayTest\Blinkay.Persistance\bin\Debug\System.IO.Compression.dll
+C:\Users\Oriol\Desktop\BlinkayTest\Blinkay.Persistance\bin\Debug\System.Net.Http.dll
+C:\Users\Oriol\Desktop\BlinkayTest\Blinkay.Persistance\bin\Debug\System.Net.Sockets.dll
+C:\Users\Oriol\Desktop\BlinkayTest\Blinkay.Persistance\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Oriol\Desktop\BlinkayTest\Blinkay.Persistance\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Oriol\Desktop\BlinkayTest\Blinkay.Persistance\bin\Debug\System.Security.SecureString.dll
+C:\Users\Oriol\Desktop\BlinkayTest\Blinkay.Persistance\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Oriol\Desktop\BlinkayTest\Blinkay.Persistance\bin\Debug\System.Xml.XPath.XDocument.dll

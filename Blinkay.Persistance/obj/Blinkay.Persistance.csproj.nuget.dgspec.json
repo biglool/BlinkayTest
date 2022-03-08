@@ -1,0 +1,79 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Oriol\\Desktop\\BlinkayTest\\Blinkay.Persistance\\Blinkay.Persistance.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Oriol\\Desktop\\BlinkayTest\\Blinkay.Domain\\Blinkay.Domain.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Oriol\\Desktop\\BlinkayTest\\Blinkay.Domain\\Blinkay.Domain.csproj",
+        "projectName": "Blinkay.Domain",
+        "projectPath": "C:\\Users\\Oriol\\Desktop\\BlinkayTest\\Blinkay.Domain\\Blinkay.Domain.csproj"
+      },
+      "frameworks": {
+        "net471": {}
+      }
+    },
+    "C:\\Users\\Oriol\\Desktop\\BlinkayTest\\Blinkay.Persistance\\Blinkay.Persistance.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Oriol\\Desktop\\BlinkayTest\\Blinkay.Persistance\\Blinkay.Persistance.csproj",
+        "projectName": "Blinkay.Persistance",
+        "projectPath": "C:\\Users\\Oriol\\Desktop\\BlinkayTest\\Blinkay.Persistance\\Blinkay.Persistance.csproj",
+        "packagesPath": "C:\\Users\\Oriol\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Oriol\\Desktop\\BlinkayTest\\Blinkay.Persistance\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\Oriol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net471"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net471": {
+            "projectReferences": {
+              "C:\\Users\\Oriol\\Desktop\\BlinkayTest\\Blinkay.Domain\\Blinkay.Domain.csproj": {
+                "projectPath": "C:\\Users\\Oriol\\Desktop\\BlinkayTest\\Blinkay.Domain\\Blinkay.Domain.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net471": {
+          "dependencies": {
+            "FluentNHibernate": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "NHibernate": {
+              "target": "Package",
+              "version": "[5.3.11, )"
+            },
+            "Npgsql": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

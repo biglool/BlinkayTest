@@ -1,0 +1,40 @@
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.UseCases\bin\Debug\Blinkay.UseCases.exe.config
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.UseCases\bin\Debug\Blinkay.UseCases.exe
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.UseCases\bin\Debug\Blinkay.UseCases.pdb
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.UseCases\bin\Debug\Blinkay.Domains.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.UseCases\bin\Debug\Blinkay.Persistance.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.UseCases\bin\Debug\FluentNHibernate.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.UseCases\bin\Debug\NHibernate.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.UseCases\bin\Debug\Remotion.Linq.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.UseCases\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.UseCases\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.UseCases\bin\Debug\Iesi.Collections.dll
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.UseCases\bin\Debug\Blinkay.Domains.pdb
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.UseCases\bin\Debug\Blinkay.Persistance.pdb
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.UseCases\bin\Debug\Blinkay.Persistance.dll.config
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.UseCases\bin\Debug\FluentNHibernate.pdb
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.UseCases\obj\Debug\Blinkay.UseCases.csprojAssemblyReference.cache
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.UseCases\obj\Debug\Blinkay.UseCases.csproj.CoreCompileInputs.cache
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.UseCases\obj\Debug\Blinkay.UseCases.csproj.CopyComplete
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.UseCases\obj\Debug\Blinkay.UseCases.exe
+C:\Users\Oriol\Desktop\NhibernateDemo_-_upload\NhibernateDemo - upload\Blinkay.UseCases\obj\Debug\Blinkay.UseCases.pdb
+C:\Users\Oriol\Desktop\BlinkayTest\Blinkay.UseCases\obj\Debug\Blinkay.UseCases.csprojAssemblyReference.cache
+C:\Users\Oriol\Desktop\BlinkayTest\Blinkay.UseCases\obj\Debug\Blinkay.UseCases.csproj.CoreCompileInputs.cache
+C:\Users\Oriol\Desktop\BlinkayTest\Blinkay.UseCases\obj\Debug\Blinkay.UseCases.pdb
+C:\Users\Oriol\Desktop\BlinkayTest\Blinkay.UseCases\bin\Debug\Blinkay.UseCases.dll.config
+C:\Users\Oriol\Desktop\BlinkayTest\Blinkay.UseCases\bin\Debug\Blinkay.UseCases.dll
+C:\Users\Oriol\Desktop\BlinkayTest\Blinkay.UseCases\bin\Debug\Blinkay.UseCases.pdb
+C:\Users\Oriol\Desktop\BlinkayTest\Blinkay.UseCases\bin\Debug\Blinkay.Domains.dll
+C:\Users\Oriol\Desktop\BlinkayTest\Blinkay.UseCases\bin\Debug\Blinkay.Persistance.dll
+C:\Users\Oriol\Desktop\BlinkayTest\Blinkay.UseCases\bin\Debug\FluentNHibernate.dll
+C:\Users\Oriol\Desktop\BlinkayTest\Blinkay.UseCases\bin\Debug\NHibernate.dll
+C:\Users\Oriol\Desktop\BlinkayTest\Blinkay.UseCases\bin\Debug\Remotion.Linq.dll
+C:\Users\Oriol\Desktop\BlinkayTest\Blinkay.UseCases\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\Oriol\Desktop\BlinkayTest\Blinkay.UseCases\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Oriol\Desktop\BlinkayTest\Blinkay.UseCases\bin\Debug\Iesi.Collections.dll
+C:\Users\Oriol\Desktop\BlinkayTest\Blinkay.UseCases\bin\Debug\Blinkay.Domains.pdb
+C:\Users\Oriol\Desktop\BlinkayTest\Blinkay.UseCases\bin\Debug\Blinkay.Persistance.pdb
+C:\Users\Oriol\Desktop\BlinkayTest\Blinkay.UseCases\bin\Debug\Blinkay.Persistance.exe.config
+C:\Users\Oriol\Desktop\BlinkayTest\Blinkay.UseCases\bin\Debug\FluentNHibernate.pdb
+C:\Users\Oriol\Desktop\BlinkayTest\Blinkay.UseCases\obj\Debug\Blinkay.UseCases.csproj.CopyComplete
+C:\Users\Oriol\Desktop\BlinkayTest\Blinkay.UseCases\obj\Debug\Blinkay.UseCases.dll
